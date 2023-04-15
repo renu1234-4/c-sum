@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a=30;
+int b= 45;
+int sum;
+printf("The sum of a and b is :");
+sum =  a+b;
+printf (" %d",&sum);
+getch()
+}
